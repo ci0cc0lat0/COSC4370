@@ -1,0 +1,10 @@
+Learn openGL - Graphics Programming by Joey de Vries
+Chapters:
+5 Hello Triangle
+6 Shaders 
+9 Coordinate Systems
+10 Camera 
+12 Colors 
+13 Basic Lighting
+
+If any more specific references are need, please let me know. 
