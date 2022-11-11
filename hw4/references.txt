@@ -1,0 +1,2 @@
+https://learnopengl.com/Getting-started/Textures
+https://learnopengl.com/Getting-started/Hello-Triangle
